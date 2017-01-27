@@ -1,5 +1,9 @@
-<?php 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Title</title>
+</head>
+<body>
 
-echo "bzeeeeng";
-
-?>
+</body>
+</html>
